@@ -1,10 +1,11 @@
 package DatabasePackage;
 
 public class ConnectionStrings {
-
-    private String schemaName = "demo";
-    private String password = "P!tur1na";
-    private String user = "root";
+    
+    //insert your own credentials from the database
+    private String schemaName = "";
+    private String password = "";
+    private String user = "";
 
     public String getHost() {
 
